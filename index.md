@@ -31,7 +31,7 @@ After realising that there just weren't enough young people skilled up to compet
     * [Twitter](https://twitter.com/_devalias)
     * [GitHub](https://github.com/alias1/)
 
-HACT wouldn't have been possible without the epic work put in by our mentors, volunteers, friends and community. In particular, special mention goes out to our very own robotic overlord, who brought her event management skills (and bottle bots!) to the table. Now with 2 of her very own startups, Erica is continuing to bring excitement to tech learning and entrepreneurship:
+HACT wouldn't have been possible without the epic work put in by our mentors, volunteers, friends and community. In particular, special mention goes out to our very own robotic overlord, who brought her event management skills (and battle bots!) to the table. Now with 2 of her very own startups, Erica is continuing to bring excitement to tech learning and entrepreneurship:
 
 * [Erica Hediger](https://www.linkedin.com/in/erica-hediger-28979096/) &#124; Chief Robotic Overlord
     * [Stem Sells](http://www.stemsells.com.au/) ([Facebook](https://www.facebook.com/stemsells/), [Twitter](https://twitter.com/STEMsellsAU)) &#124; An out-of-school, 10-week programme for girls in Canberra and the nearby regional area to encourage development of STEM and entrepreneur skills.
