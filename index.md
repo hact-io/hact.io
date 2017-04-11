@@ -23,18 +23,18 @@ Where are they now? What's happening in the future? Who was behind HACT?
 
 After realising that there just weren't enough young people skilled up to compete in hackathons, Matt championed the first hs.hact event. With great success, he brought together the founding team, and set about on making HACT a reality.
 
-* [Matt Stimson](https://www.linkedin.com/in/mattstimson/) | Co-Founder and CEO
-* [Blair Duncan](https://www.linkedin.com/in/blair-duncan-778b3960/) | Co-Founder and Chief Product Officer (CPO)
-* [Glenn 'devalias' Grant](https://au.linkedin.com/in/glenndevaliasgrant) | Co-Founder and Technical Cyber Shaman (CTO)
+* [Matt Stimson](https://www.linkedin.com/in/mattstimson/) &#124; Co-Founder and CEO
+* [Blair Duncan](https://www.linkedin.com/in/blair-duncan-778b3960/) &#124; Co-Founder and Chief Product Officer (CPO)
+* [Glenn 'devalias' Grant](https://au.linkedin.com/in/glenndevaliasgrant) &#124; Co-Founder and Technical Cyber Shaman (CTO)
     * [Blog](http://www.devalias.net/)
     * [Twitter](https://twitter.com/_devalias)
     * [GitHub](https://github.com/alias1/)
 
 HACT wouldn't have been possible without the epic work put in by our mentors, volunteers, friends and community. In particular, special mention goes out to our very own robotic overlord, who brought her event management skills (and bottle bots!) to the table. Now with 2 of her very own startups, Erica is continuing to bring excitement to tech learning and entrepreneurship:
 
-* [Erica Hediger](https://www.linkedin.com/in/erica-hediger-28979096/) | Chief Robotic Overlord
-    * [Stem Sells](http://www.stemsells.com.au/) ([Facebook](https://www.facebook.com/stemsells/), [Twitter](https://twitter.com/STEMsellsAU)) | An out-of-school, 10-week programme for girls in Canberra and the nearby regional area to encourage development of STEM and entrepreneur skills.
-    * [The Creative Element](http://thecreativeelement.com.au/) ([Facebook](https://www.facebook.com/InventCreatePlay/)) | Invent. Create. Play. Engage with Science & Technology like never before.
+* [Erica Hediger](https://www.linkedin.com/in/erica-hediger-28979096/) &#124; Chief Robotic Overlord
+    * [Stem Sells](http://www.stemsells.com.au/) ([Facebook](https://www.facebook.com/stemsells/), [Twitter](https://twitter.com/STEMsellsAU)) &#124; An out-of-school, 10-week programme for girls in Canberra and the nearby regional area to encourage development of STEM and entrepreneur skills.
+    * [The Creative Element](http://thecreativeelement.com.au/) ([Facebook](https://www.facebook.com/InventCreatePlay/)) &#124; Invent. Create. Play. Engage with Science & Technology like never before.
 
 There are so many volunteers, mentors, and students that deserve special thanks and recognition for sharing the HACT journey with us and making it a reality. While too numerous to list here, know that we appreciate all that you have done to help make this dream a reality! <3
 
