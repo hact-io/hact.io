@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: HACT
 tagline: Empowering young people through tech and entrepreneurship
 description: Empowering young people through tech and entrepreneurship
