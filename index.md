@@ -5,4 +5,4 @@ tagline: Empowering young people through tech and entrepreneurship
 description: Empowering young people through tech and entrepreneurship
 ---
 
-See more at https://www.facebook.com/hact.io/
+See more at [https://www.facebook.com/hact.io/](https://www.facebook.com/hact.io/)
