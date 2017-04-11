@@ -27,6 +27,7 @@ After realising that there just weren't enough young people skilled up to compet
 * [Blair Duncan](https://www.linkedin.com/in/blair-duncan-778b3960/) &#124; Co-Founder and Chief Product Officer (CPO)
 * [Glenn 'devalias' Grant](https://au.linkedin.com/in/glenndevaliasgrant) &#124; Co-Founder and Technical Cyber Shaman (CTO)
     * [Blog](http://www.devalias.net/)
+    * [Instagram](https://www.instagram.com/_devalias/)
     * [Twitter](https://twitter.com/_devalias)
     * [GitHub](https://github.com/alias1/)
 
