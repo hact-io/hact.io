@@ -37,6 +37,11 @@ HACT wouldn't have been possible without the epic work put in by our mentors, vo
     * [Stem Sells](http://www.stemsells.com.au/) ([Facebook](https://www.facebook.com/stemsells/), [Twitter](https://twitter.com/STEMsellsAU)) &#124; An out-of-school, 10-week programme for girls in Canberra and the nearby regional area to encourage development of STEM and entrepreneur skills.
     * [The Creative Element](http://thecreativeelement.com.au/) ([Facebook](https://www.facebook.com/InventCreatePlay/)) &#124; Invent. Create. Play. Engage with Science & Technology like never before.
 
+Do you guys remember when Mia took out our top prize at HS.HACT back in 2015? Not only did she write her very first mobile app, but she pitched her vision for a student focused STEM collaboration company. Well guess what, Mia's just taken her first steps towards making that vision a reality! Make sure you head over to 'Control N', like it, and keep an eye on the awesome things to come!
+
+* [Mia's Winning Pitch @ HS.HACT 2015](https://www.youtube.com/watch?v=ubGFOICVFME)
+* [Control N](https://www.facebook.com/controlnCBR/)
+
 There are so many volunteers, mentors, and students that deserve special thanks and recognition for sharing the HACT journey with us and making it a reality. While too numerous to list here, know that we appreciate all that you have done to help make this dream a reality! <3
 
 ## Across the Net
