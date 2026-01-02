@@ -1,3 +1,3 @@
-# hact.io
+# hact-io.github.io
 
-http://www.hact.io/
+https://hact-io.github.io/
